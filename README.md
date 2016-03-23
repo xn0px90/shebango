@@ -1,4 +1,4 @@
-# shebango
+# SheBanGo
 
 System administrator will  write shell scripts to accomplish certain task.
 Many times we encounter scripting languages have limited capabilities.
