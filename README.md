@@ -8,7 +8,6 @@ Using Go to replace shell scripts can be achieved quickly.
 # Example: To execute Go program as a shell script.
 
 ```
-/*Put this line at the top of your code*/
 //usr/bin/env go run $0 $@ ; exit
 
 package main
