@@ -1,7 +1,7 @@
 # SheBanGo
 
 System administrator will write shell scripts to accomplish a certain task.
-Many times we encounter scripting languages have limited capabilities.
+Many times you will encounter scripting languages have limited capabilities.
 For example establishing secure transport layer or upload files to a remote location securely and efficiently.
 Using Go to replace shell scripts can be achieved quickly.
 
