@@ -1,4 +1,5 @@
 //usr/bin/env go run $0 $@ ; exit
+//You need to chmod +x r2-example.go
 package main
 
 import (
