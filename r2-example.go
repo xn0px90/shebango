@@ -4,9 +4,8 @@ package main
 
 import (
 	"fmt"
-
 	"github.com/radare/r2pipe-go"
-)
+	)
 
 func main() {
  r2p, err := r2pipe.NewPipe("plaid/butterfly_33e86bcc2f0a21d57970dc6907867bed")
