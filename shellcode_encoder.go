@@ -1,4 +1,4 @@
-//usr/bin/env go $0 $@
+//usr/bin/env go $0 $@ ; exit
 /*Shellcode  
 */
 package main
