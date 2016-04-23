@@ -1,4 +1,5 @@
 //open ports for ncat -l 4444
+//golua and nse scripts combo example 
   
 package main 
 
