@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	Run("echo hello bash !")
+	Run("echo goodbye bash !")
 }
 
 func Run(command string) {
