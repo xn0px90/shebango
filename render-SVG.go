@@ -14,7 +14,7 @@ func main() {
 	canvas := svg.New(&output)
 	canvas.Start(250, 250)
 	canvas.Circle(125, 125, 100, "fill:#28262C;stroke:#5BA642;stroke-width:5px")
-	canvas.Text(125, 135, "xn0px90!", "text-anchor:middle;font-size:36px;fill:#EB5633")
+	canvas.Text(125, 135, "nick_here", "text-anchor:middle;font-size:36px;fill:#EB5633")
 	canvas.End()
 
 	js.Global.Get("document").Get("body").Set("innerHTML", output.String())
