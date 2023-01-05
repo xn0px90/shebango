@@ -8,7 +8,7 @@ import (
 	)
 
 func main() {
- r2p, err := r2pipe.NewPipe("plaid/butterfly_33e86bcc2f0a21d57970dc6907867bed")
+ r2p, err := r2pipe.NewPipe("change_me_with_bin")
 	if err != nil {
 		panic(err)
 	}
